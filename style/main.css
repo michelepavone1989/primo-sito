@@ -85,6 +85,11 @@ text-transform: uppercase;
 	border-bottom: #599a68 solid 3px;
 }
 
+.animation-images:not(:first-child) {
+    			top: -550px;
+    			position: relative;
+			}
+
 
 
 
